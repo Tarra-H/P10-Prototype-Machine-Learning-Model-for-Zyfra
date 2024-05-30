@@ -1,4 +1,4 @@
-# Prototype-Machine-Learning-Model-for-Zyfra
+# Developing a Machine Learning Prototype to Predict Gold Extraction Efficiency for Zyfra
 
 Project Description:
 
